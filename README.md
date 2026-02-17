@@ -38,7 +38,8 @@ Garsonsuz Dijital Restoran Deneyimi
 
 ## 📈 GitHub Stats
 
-![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samraew&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Samraew&show_icons=true&theme=tokyonight" />
+
 
 
 ---
