@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Mehmet%20Yıldız&fontSize=40&fontColor=ffffff" />
+</p>
+
 # 👋 Hi, I'm Mehmet Yıldız
 
-🎮 Game & Software Developer  
+## 🎮 Game & Software Developer
+
 🚀 Building scalable digital systems  
 
 ---
